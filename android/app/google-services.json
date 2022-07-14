@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133572449633",
+    "project_id": "route-training",
+    "storage_bucket": "route-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133572449633:android:4aa927ff0a8c966ebb2120",
+        "android_client_info": {
+          "package_name": "com.example.route_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133572449633-55b5uq4ou5ms896s1od8j6um01pmc9pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-z-yJd5FU9ABtk9LELwI6quteCLQIYAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133572449633-55b5uq4ou5ms896s1od8j6um01pmc9pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
